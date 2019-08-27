@@ -80,18 +80,18 @@ class Header extends React.Component {
                         Click an image to begin
                     </h1>
                 </div>
-                <div className="header-text-container">
+                <div id="header-right-container" className="header-text-container">
                     <h2 className="header-text">
                         Current Score: {this.state.currentScore}
                     </h2>
-                    <h2 className="header-text">
+                    <h2 id="top-score-text" className="header-text">
                         Top Score: {this.state.topScore}
                     </h2>
                 </div>
             </div>
             <div id="buffer">
                 <h1 id="buffer-header">Memory Game</h1>
-                <p>Click on an image to earn points, but don't click on any item more than once!</p>
+                <h3 id="buffer-description-text">Click on an image to earn points, but don't click on any item more than once!</h3>
             </div>
             <div id="tiles-container">
                 {this.state.characters.map(character =>{
@@ -106,7 +106,7 @@ class Header extends React.Component {
             </div>
             <div id="footer-container">
                 <div className="footer-text-container">
-                    <p className="footer-text">Test your memory!</p>
+                    <h3 className="footer-text">Test your memory!</h3>
                 </div>
             </div>
             </>

@@ -4,46 +4,47 @@
     top: 0;
     background: purple;
     white-space: nowrap;
+    display: flex;
+    flex-direction: row;
 }
 
-h1, h2, p{
+h1, h2, h3, p{
     color: white;
     vertical-align: middle;
     text-align: center;
-    margin-top: 0px;
+    margin: 0px;
 }
 
-.header-text-container{
-    overflow: hidden;
-    float: left;
-    margin-left: 5%;
-    margin-right: 5%;
-    width: 23%;
-    height: 100%;
+#buffer-description-text{
+    margin-top: 2%;
+}
+
+#top-score-text{
+    margin-top: 2%;
+}
+
+.header-text-container, .footer-text-container{
     vertical-align: middle;
-    display: table;
-    text-align: center;
-    cursor: default;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-text-container{
+    height: 100%;
 }
 
 #header-left-container{
     cursor: pointer;
 }
 
-.header-text, .footer-text{
-    /* float: left; */
-    vertical-align: middle;
-    display: table-cell;
+#header-right-container{
+    display: flex;
+    flex-direction: column;
 }
 
-.footer-text-container{
-    overflow: hidden;
-    height: 100%;
-    vertical-align: middle;
-    display: table;
-    text-align: center;
-    cursor: default;
-    margin: auto;
+.header-text, .footer-text{
+    align-self: center;
 }
 
 #buffer{
