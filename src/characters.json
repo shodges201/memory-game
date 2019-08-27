@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Darth Vader",
+        "img": "https://lumiere-a.akamaihd.net/v1/images/Darth-Vader_6bda9114.jpeg?region=0%2C34%2C1400%2C699"
+    },
+    {
+         "id": 2,
+        "name": "Yoda",
+        "img": "http://starwarsblog.starwars.com/wp-content/uploads/sites/6/2017/05/yoda-advice-always-in-motion-is-the-future.jpg"
+    },
+    {
+         "id": 3,
+        "name": "Darth Maul",
+        "img": "http://static2.wikia.nocookie.net/__cb20121226141344/starwars/images/b/bf/Darth_Maul.png"
+    },
+    {
+         "id": 4,
+        "name": "Luke SkyWalker",
+        "img": "http://img1.wikia.nocookie.net/__cb20070711234111/starwars/images/0/09/LukeESB1.jpg"
+    },
+    {
+         "id": 5,
+        "name": "Chewbacca",
+        "img": "http://news.toyark.com/wp-content/uploads/sites/4/2014/09/Hot-Toys-Chewbacca-11.jpg"
+    },
+    {
+         "id": 6,
+        "name": "Han Solo",
+        "img": "https://screenrant.com/wp-content/uploads/Original-Han-Solo-Star-Wars-Harrison-Ford-Costume-Test.jpg"
+    }
+
+]
