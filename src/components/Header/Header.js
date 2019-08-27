@@ -96,7 +96,8 @@ class Header extends React.Component {
             <div id="tiles-container">
                 {this.state.characters.map(character =>{
                     return (<Tile 
-                        id={character.id} 
+                        key={character.id} 
+                        id={character.id}
                         name={character.name} 
                         img={character.img}
                         checkPick={this.checkPick}
@@ -104,7 +105,9 @@ class Header extends React.Component {
                 })}
             </div>
             <div id="footer-container">
-
+                <div className="footer-text-container">
+                    <p className="footer-text">Test your memory!</p>
+                </div>
             </div>
             </>
             );
