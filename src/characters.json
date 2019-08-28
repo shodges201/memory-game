@@ -5,29 +5,58 @@
         "img": "https://lumiere-a.akamaihd.net/v1/images/Darth-Vader_6bda9114.jpeg?region=0%2C34%2C1400%2C699"
     },
     {
-         "id": 2,
+        "id": 2,
         "name": "Yoda",
         "img": "http://starwarsblog.starwars.com/wp-content/uploads/sites/6/2017/05/yoda-advice-always-in-motion-is-the-future.jpg"
     },
     {
-         "id": 3,
+        "id": 3,
         "name": "Darth Maul",
-        "img": "http://static2.wikia.nocookie.net/__cb20121226141344/starwars/images/b/bf/Darth_Maul.png"
+        "img": "https://timedotcom.files.wordpress.com/2015/12/darth-maul.jpg?quality=85"
     },
     {
-         "id": 4,
+        "id": 4,
         "name": "Luke SkyWalker",
-        "img": "http://img1.wikia.nocookie.net/__cb20070711234111/starwars/images/0/09/LukeESB1.jpg"
+        "img": "http://i1.mirror.co.uk/incoming/article9603913.ece/ALTERNATES/s1200/PROD-Luke-Skywalker-in-Star-Wars-film.jpg"
     },
     {
-         "id": 5,
+        "id": 5,
         "name": "Chewbacca",
-        "img": "http://news.toyark.com/wp-content/uploads/sites/4/2014/09/Hot-Toys-Chewbacca-11.jpg"
+        "img": "https://pmcvariety.files.wordpress.com/2016/12/chewbacca.jpg?w=700&h=393&crop=1"
     },
     {
-         "id": 6,
+        "id": 6,
         "name": "Han Solo",
-        "img": "https://screenrant.com/wp-content/uploads/Original-Han-Solo-Star-Wars-Harrison-Ford-Costume-Test.jpg"
+        "img": "http://cdn-static.denofgeek.com/sites/denofgeek/files/2016/01/han-solo-main.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Obi Wan Kenobi",
+        "img": "https://www.telegraph.co.uk/content/dam/films/2017/08/18/ewanobistarwars2112a-xlarge_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9V-UxAzQBOWbRM9zStsHOzU.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Mace Windu",
+        "img": "http://img.lum.dolimg.com/v1/images/Mace-Windu_b35242e5.jpeg?region=0%2C51%2C1638%2C819"
+    },
+    {
+        "id": 9,
+        "name": "Boba Fett",
+        "img": "http://assets2.ignimgs.com/2013/09/13/boba-fett-star-wars-1280jpg-e94733_1280w.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Princess Leah",
+        "img": "https://opinionessoftheworld.files.wordpress.com/2012/08/princess-leia-stormtroopers-high-definition-star-wars.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Clone Troopers",
+        "img": "https://starwarsblog.starwars.com/wp-content/uploads/2016/07/clone-trooper-armor_607fbd6a.jpeg"
+    },
+    {
+        "id": 12,
+        "name": "Darth Sidious",
+        "img": "https://assets1.ignimgs.com/2019/04/15/emperor-palpatine-1280-1555364861596_1280w.jpg"
     }
-
 ]
